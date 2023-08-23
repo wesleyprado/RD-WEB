@@ -41,10 +41,10 @@
 gem install bundler
 bundle install
 ```
-## To run the tests in dev
+## To run the tests in qa
 
  ```sh
-cucumber -p dev -p json
+cucumber -p qa -p json
 ```
 ## To run the tests in homolog
 
