@@ -1,0 +1,8 @@
+DATA:
+  LoginUser:
+    Username: "Admin"
+    Password: "admin123"
+  NewUser:
+    EmployeeName: "Odis"
+    Username: "wesley"
+    Password: "@asd@442"
